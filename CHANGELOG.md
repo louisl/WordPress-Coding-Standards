@@ -30,6 +30,7 @@ _Nothing yet._
 - The `find_array_open_closer()` utility method to the `WordPress_Sniff` class.
 - Information about setting `installed_paths` using a custom ruleset to the Readme.
 - Additional support links to the `composer.json` file.
+- Support for Composer PHPCS plugins which sort out the `installed_paths` setting.
 - Linting and code-style check of the XML ruleset files provided by WPCS.
 
 ### Changed
@@ -49,6 +50,7 @@ _Nothing yet._
 - Updated the [`project.ruleset.xml.example`](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/blob/develop/project.ruleset.xml.example) to provide a better starting point.
 - Various inline documentation improvements.
 - Updated the link to the PHPStorm documentation in the Readme.
+- Various textual improvements to the Readme.
 
 ### Removed
 - `Squiz.Commenting.LongConditionClosingComment` sniff from the `WordPress-Core` ruleset. This rule has been removed from the WP Coding Standards handbook.
