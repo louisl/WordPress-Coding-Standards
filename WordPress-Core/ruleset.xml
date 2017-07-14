@@ -392,6 +392,8 @@
 		<severity>0</severity>
 	</rule>
 
+	<rule ref="WordPress.Classes.ClassInstantiation"/>
+
 	<!--
 	#############################################################################
 	Not in the coding standard handbook: WP specific sniffs.
